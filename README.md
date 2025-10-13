@@ -7,17 +7,11 @@
 
 Certifications - 
 1. CompTIA Security+
+2. AWS CCP
 
 #
 
 🔭 I’m currently doing -
-1. Projects to extend my knowledge in cyber security
-2. Reading The Phoenix Project 
-3. TryHackMe
+1. JWT Authentication and Authorisation
 
-🎮 My Top 5 Video Games of all Time - 
-1. The Last of Us
-2. COD: Black Ops 3
-3. Rainbox Six Siege
-4. Destiny
-5. Escape from Tarkov
+
