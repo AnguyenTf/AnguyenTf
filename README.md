@@ -3,7 +3,7 @@
 </div>
 
 # Hello who visits <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to my GitHub Profile!
-## I'm a First-Generation recent Computer Science graduate at San Diego State University. I am eager to explore opportunities in the field of Cyber Security and IT.
+## I'm a First-Generation recent Computer Science graduate at San Diego State University. I am eager to explore opportunities in the field of low level programming.
 
 Certifications - 
 1. CompTIA Security+
@@ -12,6 +12,6 @@ Certifications -
 #
 
 🔭 I’m currently doing -
-1. JWT Authentication and Authorisation
+1. Nueral Network in CUDA
 
 
