@@ -9,7 +9,7 @@ I'm a **first-generation Computer Science graduate** from San Diego State Univer
 
 ---
 
-## 🔭 Currently Exploring
+## Currently Exploring
 - Neural Networks implemented in **CUDA**
 - GPU optimization and performance tuning
 - Low-level systems programming
@@ -17,7 +17,7 @@ I'm a **first-generation Computer Science graduate** from San Diego State Univer
 
 ---
 
-## 🛠️ Skills & Tech
+## Skills & Tech
 - Programming: **C, C++, Python**
 - GPU Programming: **CUDA**
 - Tools & Platforms: **Linux, Git, AWS**
@@ -25,15 +25,15 @@ I'm a **first-generation Computer Science graduate** from San Diego State Univer
 
 ---
 
-## 🎓 Certifications
+## Certifications
 1. CompTIA Security+
 2. AWS Certified Cloud Practitioner (CCP)
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [Your Email]
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/andy-nguyen-an
+- Email: anguyen57329@gmail.com
 
 ---
 
