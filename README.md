@@ -3,7 +3,7 @@
 </div>
 
 
-# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my GitHub Profile!
+# Hello there! Welcome to my GitHub Profile!
 
 I'm a **first-generation Computer Science graduate** from San Diego State University, passionate about **low-level programming, GPU architecture, and parallel computing**.  
 
