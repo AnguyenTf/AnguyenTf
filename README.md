@@ -2,16 +2,38 @@
   <img src="./Intro-Github.gif" alt="Intro GitHub">
 </div>
 
-# Hello who visits <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to my GitHub Profile!
-## I'm a First-Generation recent Computer Science graduate at San Diego State University. I am eager to explore opportunities in the field of low level programming.
 
-Certifications - 
+# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my GitHub Profile!
+
+I'm a **first-generation Computer Science graduate** from San Diego State University, passionate about **low-level programming, GPU architecture, and parallel computing**.  
+
+---
+
+## 🔭 Currently Exploring
+- Neural Networks implemented in **CUDA**
+- GPU optimization and performance tuning
+- Low-level systems programming
+- Kubernetes the Hard Way
+
+---
+
+## 🛠️ Skills & Tech
+- Programming: **C, C++, Python**
+- GPU Programming: **CUDA**
+- Tools & Platforms: **Linux, Git, AWS**
+- Concepts: **Computer Architecture, Parallel Computing, Performance Optimization**
+
+---
+
+## 🎓 Certifications
 1. CompTIA Security+
-2. AWS CCP
+2. AWS Certified Cloud Practitioner (CCP)
 
-#
+---
 
-🔭 I’m currently doing -
-1. Nueral Network in CUDA
+## 📫 Connect With Me
+- LinkedIn: [Your LinkedIn URL]  
+- Email: [Your Email]
 
+---
 
