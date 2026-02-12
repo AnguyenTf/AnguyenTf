@@ -35,5 +35,5 @@ I'm a **first-generation Computer Science graduate** from San Diego State Univer
 - LinkedIn: www.linkedin.com/in/andy-nguyen-an
 - Email: anguyen57329@gmail.com
 
----
-
+#LeBron4lyfe
+#Mysunshine
