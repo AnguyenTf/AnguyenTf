@@ -12,7 +12,7 @@
 
 <p align="left">
     <span style="display:inline-block; font-size:34px; margin-right:10px; vertical-align:middle;">⚙️</span>
-  Currently learning: Advanced CUDA optimization techniques, parallel algorithm design, low‑level systems behavior, GPU architecture…
+  Currently learning: Advanced CUDA optimization techniques, parallel algorithm design, low‑level systems behavior, GPU architecture.
 </p>
 
 <br>
