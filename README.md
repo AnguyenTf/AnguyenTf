@@ -3,26 +3,37 @@
 ###
 
 <p align="left">
-    <img src="113-1132503_gtx-1080-ti-fe-hd-png-download (1).png" width="38" style="vertical-align:middle; margin-right:10px;" /> 
+    <img src="/assets/gtx1080ti.png" width="25" style="vertical-align:middle; margin-right:10px;" /> 
     I'm a GPU‑focused programmer who builds GPU simulators, CUDA kernels, and parallel systems modeled after real world workloads, with a growing interest in performance analysis and next‑generation GPU architectures.</p>
 
 <br>
 
 <p align="left">
-  <img src="stack.png" width="28" style="vertical-align:middle; margin-top:4px; margin-right:10px;" />
+  <img src="/assets/stack.png" width="20" style="vertical-align:middle; margin-top:4px; margin-right:10px;" />
   Current stack: CUDA Toolkit, Python, C/C++, REST APIs, Linux, Docker, Git/GitHub, AWS (Lambda, EC2, RDS)</p>
 
 <br>
-    Currently learning: Advanced CUDA optimization techniques, parallel algorithm design for real‑world workloads, low‑level systems behavior, and deeper GPU architecture concepts to improve performance analysis and simulation accuracy.
----
 
+<p align="left">
+    <span style="display:inline-block; font-size:34px; margin-right:10px; vertical-align:middle;">⚙️</span>
+  Currently learning: Advanced CUDA optimization techniques, parallel algorithm design, low‑level systems behavior, GPU architecture…
+</p>
 
-## Certifications
-1. CompTIA Security+
-2. AWS Certified Cloud Practitioner (CCP)
+<br>
 
----
-
-## Connect With Me
-- LinkedIn: www.linkedin.com/in/andy-nguyen-an
-- Email: anguyen57329@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="60" style="margin:0 28px;" />
+      <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" style="margin:0 28px;" />
+      <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" style="margin:0 28px;" />
+      <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" style="margin:0 28px;" />
+      <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" style="margin:0 28px;" />
+      <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" style="margin:0 28px;" />
+      <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" style="margin:0 28px;" />
+      <img width="12" />
+</p>
